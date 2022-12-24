@@ -1,1 +1,1 @@
-# ProjectOne my terraform project
+# ProjectOne my Terraform project
